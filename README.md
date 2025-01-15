@@ -1,74 +1,37 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# B1 Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Visit the Application](https://calculator.software.mintrishere.com)
 
-## Available Scripts
+## Project Overview
+**Project Name:** B1 Calculator  
+**Short Description:**  
+B1 Calculator is a web-based calculator application offering a variety of calculation tools. This project aims to provide an intuitive, easy-to-use interface for diverse calculation needs while helping me gain hands-on experience with front-end technologies.
 
-In the project directory, you can run:
+## Features & Technologies
 
-### `npm start`
+### Technologies Used:
+- **React.js:** For building the user interface and managing state.
+- **React Router:** For handling navigation between pages.
+- **Tailwind CSS:** For responsive and modern styling.
+- **JavaScript ES6+:** For interactive functionality and advanced features.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features:
+- **Basic & Scientific Calculator:** Perform fundamental arithmetic and scientific calculations.
+- **Tips & Tax Calculation:** Quickly calculate tips and taxes.
+- **Date Calculation:** Calculate the difference between dates.
+- **BMI Calculation:** Determine your Body Mass Index.
+- **Unit Converter:** Convert between various units (length, weight, temperature, etc.).
+- **Responsive Web Design:** Fully optimized for desktop and mobile devices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Repository
 
-### `npm test`
+The complete source code for the B1 Calculator project is available on GitHub. It includes:
+- React components for a modular structure.
+- Styling with Tailwind CSS for a clean, responsive design.
+- Comprehensive implementations of all the features listed above.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[**View on GitHub**](https://github.com/ngmtri20901/B1-Calculator)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# B1-Calculator
->>>>>>> 49e2839e4554417346500f34613db372edcbebcf
+Feel free to explore, use, or contribute to the project!
